@@ -5209,6 +5209,8 @@ input[type="button"].btn-block {
   background-color: #eee;
   border-radius: 0;
   width: 75%;
+  border: 3px solid #FEB81C;
+  
 }
 
 @media (min-width: 576px) {
